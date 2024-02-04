@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=0.Main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=0.Main.SchDoc|Designator=07.Mechanical|SchDesignator=07.Mechanical|FileName=07.Mechanical.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=07.Mechanical.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=0.Main.SchDoc|Designator=GPIO|SchDesignator=GPIO|FileName=06.GPIO.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=06.GPIO.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=0.Main.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=03.MCU.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=03.MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=0.Main.SchDoc|Designator=Power|SchDesignator=Power|FileName=01.Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=01.Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
