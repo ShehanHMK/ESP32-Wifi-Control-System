@@ -3,7 +3,18 @@
 ## Overview
 Introducing our latest **Smart Home Automation Unit PCB** design! This board enables seamless control of home appliances via Wi-Fi, allowing users to manage their devices from anywhere with an internet connection. 
 
-<img src="image.jpg" alt="Smart Home Automation PCB" width="600">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="top.jpg" alt="Smart Home Automation PCB Front" width="400"></td>
+      <td align="center"><img src="perspective.jpg" alt="Smart Home Automation PCB Back" width="500"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Top View</b></td>
+      <td align="center"><b>Perspective View</b></td>
+    </tr>
+  </table>
+</div>
 
 ## Features
 - **Wi-Fi Connectivity**: Built-in ESP32 module for remote control.
